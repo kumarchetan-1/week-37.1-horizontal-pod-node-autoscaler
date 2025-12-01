@@ -48,7 +48,7 @@ spec:
     kind: Deployment
     name: cpu-deployment
   minReplicas: 2
-  maxReplicas: 20
+  maxReplicas: 4
   metrics:
   - type: Resource
     resource:
