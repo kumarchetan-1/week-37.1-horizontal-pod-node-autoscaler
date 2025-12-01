@@ -27,7 +27,7 @@ The **HPA controller** watches CPU usage and adjusts the number of replicas auto
 
 ## 🧠 Concepts Explained (Based on `deployment.yml`)
 
-### ### 1️⃣ **Deployment**
+### 1️⃣ **Deployment**
 Deployment manages running instances (pods) of your application.
 
 ```yaml
